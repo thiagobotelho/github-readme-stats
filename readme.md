@@ -897,3 +897,7 @@ Thanks! :heart:
 Contributions are welcome! <3
 
 Made with :heart: and JavaScript.
+
+## Operação deste fork
+
+Consulte o [guia de operação do fork](docs/OPERACAO-DO-FORK.md) para responsabilidades, atualização e diagnóstico.
